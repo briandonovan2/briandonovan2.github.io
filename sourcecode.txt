@@ -149,7 +149,7 @@
     }
 
 
-    /* Media query for screens with a width of 600px or less (i.e mobile devices) */
+    /* Media query for screens with a width of 600px or less (e.g., mobile devices) */
     @media only screen and (max-width: 800px) {
         .avatar {
             float: none;
@@ -196,7 +196,7 @@
 
         <div class="contact-info">
             <!-- Make the LinkedIn logo clickable and apply the hover effect -->
-            <a href="https://www.linkedin.com/in/brian-donovan-812b50222/">
+            <a href="https://www.linkedin.com/in/briandonovan25/">
                 <img class="linkedIn" src="LinkedIn_logo_initials.JPG" alt="LinkedIn Logo">
             </a>
             <p><a href="mailto:donovabm@dukes.jmu.edu">donovabm@dukes.jmu.edu</a></p>
@@ -232,7 +232,7 @@
     <div class="section">
         <h2 class="section-title">Languages and Tools</h2>
         <ul>
-            <li>Java</li>
+            <li>JAVA</li>
             <li>C</li>
             <li>SQL</li>
             <li>Python</li>
@@ -242,6 +242,9 @@
             <li>LinkedIn Sales Navigator</li>
             <li>Adobe InDesign</li>
             <li>MS Office Suite</li>
+
+
+            <!-- Add other languages and tools here -->
         </ul>
     </div>
 
@@ -297,6 +300,7 @@
         </div>
 
 
+        <!-- Add other job experiences here -->
         <div class="job-experience">
             <h3 style="text-align: center;">
                 <a href="https://lansdowneresort.com/golf/">
@@ -360,6 +364,12 @@
         <ul>
             <li><a href="https://cyberinitiative.org/">Commonwealth Cyber Initiative Scholar</span></a>:
                 George Mason University, 2022</li>
+
+            <li><a href="https://www.jmu.edu/cise/mentor-collective.shtml"><span class="company-name">JMU Student
+                        Success
+                        Mentor</span></a>:
+                </span></a> Mentor Collective, August 2023</li>
+
             <li><a
                     href="https://www.cccbsa.org/2023/02/13/what-it-means-to-be-an-eagle-scout/#:~:text=The%20Eagle%20Scout%20embodies%20the,%2C%20peers%2C%20or%20their%20community."><span
                         class="company-name">Eagle Scout</span></a>:
@@ -371,6 +381,7 @@
             <li><a href="https://www.nationalhonorsociety.org/"><span class="company-name">National Honor
                         Society</span></a>:
                 </span></a> September 2019 - June 2021</li>
+
 
         </ul>
     </div>
@@ -388,6 +399,7 @@
             <li>CS 159: Advanced Programming</li>
             <li>Math 220: Statistics</li>
             <li>Math 231/232: Calculus with Functions I/II</li>
+            <!-- Add other languages and tools here -->
         </ul>
     </div>
 
@@ -397,6 +409,7 @@
 
             <li> <a href="sourcecode.txt" target="_blank">View Source Code</a>
             </li>
+            <!-- Add other languages and tools here -->
         </ul>
     </div>
 
