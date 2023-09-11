@@ -242,14 +242,8 @@
             <li>LinkedIn Sales Navigator</li>
             <li>Adobe InDesign</li>
             <li>MS Office Suite</li>
-
-
-            <!-- Add other languages and tools here -->
         </ul>
     </div>
-
-
-
 
 
     <div class="section">
@@ -299,8 +293,6 @@
             </ul>
         </div>
 
-
-        <!-- Add other job experiences here -->
         <div class="job-experience">
             <h3 style="text-align: center;">
                 <a href="https://lansdowneresort.com/golf/">
@@ -399,7 +391,6 @@
             <li>CS 159: Advanced Programming</li>
             <li>Math 220: Statistics</li>
             <li>Math 231/232: Calculus with Functions I/II</li>
-            <!-- Add other languages and tools here -->
         </ul>
     </div>
 
@@ -409,7 +400,6 @@
 
             <li> <a href="sourcecode.txt" target="_blank">View Source Code</a>
             </li>
-            <!-- Add other languages and tools here -->
         </ul>
     </div>
 
