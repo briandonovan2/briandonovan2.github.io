@@ -4096,6 +4096,16 @@ template {
     content: "\e601"
 }
 
+.devicon-rust-original-wordmark:before,
+.devicon-rust-plain-wordmark:before {
+    content: "\ebd6"
+}
+
+.devicon-rust-original:before,
+.devicon-rust-plain:before {
+    content: "\ebd6"
+}
+
 .devicon-ruby-plain-wordmark:before {
     content: "\ebc9"
 }
@@ -4635,7 +4645,7 @@ template {
 .devicon-nodewebkit-line.colored,
 .devicon-nodewebkit-plain-wordmark.colored,
 .devicon-nodewebkit-plain.colored {
-    color: #3d3b47
+    color: #83cd29
 }
 
 .devicon-oracle-original.colored,
@@ -4686,6 +4696,14 @@ template {
 .devicon-react-plain.colored {
     color: #61dafb
 }
+
+.devicon-rust-original-wordmark.colored,
+.devicon-rust-original.colored,
+.devicon-rust-plain-wordmark.colored,
+.devicon-rust-plain.colored {
+    color: #61dafb
+}
+
 
 .devicon-redhat-original-wordmark.colored,
 .devicon-redhat-original.colored,
